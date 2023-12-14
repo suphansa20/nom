@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Resume</title>
+    </head>
+    <body>
+        <center>
+            <h1> RESUME APATSARA KAMKA </h1>
+            <img src="OIP.jpg" 
+            height=" 250"
+            width="200" ><br>
+            
+            <h3>SUHANSA  RAMPAN <h3>
+
+            <p>
+                <font style="color:#3019b6">
+    
+                    <h4>PERSONAL INFORMATION</h4> <br> </font> 
+                    <b>NICKNAME</b> pim <br>
+                    <b>AGE</b> 20 Years <br>
+                    <b>DATE OF BIRTH </b>10 October. 2003 <br>
+                    <font style="color:#c63fb6">
+    
+                        <h4>ABOUT MW</h4> <br> </font>
+                        <b> I come from Phrae province. Currently studying at Phayao University 2nd year </b> <br>
+                        <b>I link listening to  shopping ,watch a film ,music</b> <br>
+                
+                <font style="color:#e8570f">
+                
+                        <h4>EDUCATION</h4> <br> </font>
+                        <b> Pattana Pracha Upatham School ,2016-2021</bcs program  ,GPA 3.28</b> <br>
+                        <b> University of Phayao  ,2022-2023</b> <br>
+                        <b>Science and Mathemati
+                        <b> Computer Science </b> <br>
+
+                <font style="color: rgb(58, 228, 20);">
+
+                           
+                            <h3>Aim of work </h3> <br> </font>
+                            <b></b>To bring knowledge, skills, and experience to work for growth.
+                            <h4>CONTACTME </h4> <br> </font>
+                
+                            
+                            <img src="https://png.pngtree.com/png-vector/20210216/ourlarge/pngtree-phone-icon-in-circle-black-png-image_2913466.png" 
+                            height="75"
+                            width="75">
+                            <a href="Tell;0920081636">0920081636 </a> <br>
+                    
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXB-SmfRGXZsuT4BIimmJyPa2MEuR48POgNsdOE_5StcLi6XWEeH8dNHoUaXURzLq5jvs&usqp=CAU" 
+                            height="55"
+                            width="55"> 
+                            
+                            <a href="suphansa10@gmail.com">suphansa10@gmail.com </a> <br>
+                            
+            </p>
+        </center>
+    </body>
+</html>
